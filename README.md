@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # newsline
 newsline project
 -Dmaven.multiModuleProjectDirectory="C:\Program Files\maven" at Build, Executions, Deployment -> Build Tools -> Maven -> Runner -> VM Options
@@ -24,6 +25,10 @@ PrintWriter writer = new PrintWriter("..\\webapps\\ROOT\\WEB-INF\\classes\\the-f
                writer.println("The first line");
                writer.println("The second line");
                writer.close();
+=======
+# News
+home_project
+>>>>>>> 5c1d4fb9e2493143f8726e5b673e23b704a6e0d7
 =======
 # News
 home_project
