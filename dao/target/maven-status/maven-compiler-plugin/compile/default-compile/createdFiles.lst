@@ -1,0 +1,3 @@
+dao\Dao.class
+Util\HibernateUtil.class
+dao\MyDao.class

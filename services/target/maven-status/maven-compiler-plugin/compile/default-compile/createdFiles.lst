@@ -1,0 +1,16 @@
+admin\Authoriz.class
+MyService.class
+admin\AdminFilter.class
+admin\commands\AddWriteCommand.class
+admin\commands\DeleteCommand.class
+admin\commands\EditCommand.class
+Service.class
+admin\Logout.class
+admin\CharsetFilter.class
+admin\commands\Command.class
+admin\commands\EditWriteCommand.class
+admin\ControlPanel.class
+admin\commands\ToStartCommand.class
+admin\commands\ShowCommand.class
+admin\commands\AddCommand.class
+admin\commands\RegCommand.class
